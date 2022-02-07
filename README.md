@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I have been working as a full stack developer. I'm using ReactJS, Typescript on the frontend. On the backend, I'm using NodeJS in NestJS framework, TypeORM,PostgreSQL,MySQL,Redis.
 
-- 🔭 I’m currently working on Javascript, React, NodeJS, Typescript
+- 🔭 I’m currently working on Javascript, React, NodeJS, Typescript, React-Native
