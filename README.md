@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a 3 years experienced full stack engineer. I'm using ReactJS, Typescript on the frontend. On the backend, I'm using NodeJS in NestJS framework, TypeORM,PostgreSQL,MySQL,Redis.
+I am a 4 years experienced full stack engineer. I'm using ReactJS, Typescript on the frontend. On the backend, I'm using NodeJS in NestJS framework, TypeORM,PostgreSQL,MySQL,Redis.
 
 I am always eager to learn new technologies and tools to enhance my skills.
 
