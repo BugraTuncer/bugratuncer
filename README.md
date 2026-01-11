@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a frontend developer with 5 years of experience, specializing in ReactJS, TypeScript, and React Native. I focus on building scalable, performant, and user-friendly interfaces across web and mobile platforms.
+I am a frontend developer with 6 years of experience, specializing in ReactJS, TypeScript, and React Native. I focus on building scalable, performant, and user-friendly interfaces across web and mobile platforms.
 
 I am always eager to learn new technologies and tools to enhance my skills.
 
